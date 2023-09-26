@@ -1,0 +1,20 @@
+{
+  "name": "svg-add-bg-fn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo 'No build step required for this project'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vercel": "^32.3.1",
+    "xmldom": "^0.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.50.0"
+  }
+}
